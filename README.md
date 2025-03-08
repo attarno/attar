@@ -17,3 +17,12 @@
 | [Learning Path](https://github.com/attarno/learning-path) | Track my AI learning journey |  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attarno&show_icons=true&theme=dark)
+
+📫 **Contact**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](your-linkedin-url)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-teal?logo=kaggle)](your-kaggle-url)  
+
+## 🔧 Skills  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attarno&show_icons=true&theme=dark)
