@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Atta Rno!  
+# 👋 Hi, I'm hussein al attar  
 **AI Engineer | Machine Learning Enthusiast**  
 
 🌱 **Learning**: Python, TensorFlow, NLP, Computer Vision  
